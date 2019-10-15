@@ -1,0 +1,24 @@
+{
+  "name": "React",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.1.1",
+    "minimist": "^1.2.0",
+    "mongoose": "^5.4.12",
+    "nodemon": "^1.18.10",
+    "react-dom": "^16.8.1",
+    "reactstrap": "^7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
